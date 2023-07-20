@@ -37,13 +37,9 @@
   "railway": {
     "build": "next build",
     "start": "next start"
-  },
-  "scripts": {
   "dev": "next dev",
-  "build": "next build",
-  "start": "next start",
   "lint": "next lint"
-},
+  },
   "engines": {
     "node": "16.x"
   }
