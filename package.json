@@ -2,7 +2,7 @@
   "name": "my-shop",
   "version": "0.1.0",
   "private": true,
-  "railway": {
+  "scripts": {
     "build": "next build",
     "start": "next start",
     "dev": "next dev",
